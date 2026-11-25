@@ -1,0 +1,24 @@
+# Python core
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+
+# DL (pick one)
+# CPU or CUDA packages appropriate for your machine
+torch
+torchvision
+# torchmetrics
+# tensorflow
+# keras
+
+# Optional
+tqdm
+imbalanced-learn
+
+pyarrow
